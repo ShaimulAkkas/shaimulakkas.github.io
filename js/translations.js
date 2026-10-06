@@ -16,11 +16,11 @@ const translations = {
 
     // Hero
     "hero.greeting": "Hello, World",
-    "hero.title.line": "IT Trainer",
+    "hero.title.line": "IT Trainer & Academic Coordinator",
     "hero.title.org": "GAMPI, Chattogram",
     "hero.badge.available": "Available for opportunities",
     "hero.badge.location": "Chattogram, Bangladesh",
-    "hero.badge.education": "Diploma in Engineering — 2023",
+    "hero.badge.education": "Diploma in Computer Technology — 2023",
     "hero.badge.email": "shaimulakkas@gmail.com",
     "hero.badge.linkedin": "LinkedIn",
     "hero.badge.github": "GitHub",
@@ -34,13 +34,13 @@ const translations = {
 
     // About
     "about.label": "About",
-    "about.p1": "Hi, I'm <em>Shaimul</em> — an IT professional based in Chattogram, Bangladesh with a passion for solving technical problems and helping others learn. I currently work as an IT Trainer at Gausul Azam Maizbhandari Polytechnic Institute, where I turn complex technical concepts into hands-on, practical learning experiences.",
+    "about.p1": "Hi, I'm <em>Shaimul</em> — an IT professional based in Chattogram, Bangladesh with a passion for solving technical problems and helping others learn. I currently work as an IT Trainer & Academic Coordinator at Gausul Azam Maizbhandari Polytechnic Institute, where I turn complex technical concepts into hands-on, practical learning experiences.",
     "about.p2": "From building and troubleshooting PC networks to configuring CCTV systems and teaching the fundamentals of data communication — I thrive at the intersection of <em>technology and education</em>. Certified IT Support Technician (NTVQF Level I), with additional training in Computer Office Applications and Graphic Design.",
-    "about.years": "2+",
+    "about.years": "3+",
     "about.years.label": "Years Experience",
     "about.cert": "NTVQF",
     "about.cert.label": "Level 1 Certified",
-    "about.students": "50+",
+    "about.students": "120+",
     "about.students.label": "Students Trained",
 
     // Personal Info
@@ -50,14 +50,14 @@ const translations = {
     "info.address": "Address",
     "info.address.val": "Vill: Banskhala, P.O: Ilsha, P.S: Banskhali, Dist: Chattogram",
     "info.role": "Current Role",
-    "info.role.val": "IT Trainer @ GAMPI",
+    "info.role.val": "IT Trainer & Academic Coordinator @ GAMPI",
     "info.phone": "Phone",
     "info.phone.val": "+880 1859-811021",
     "info.email": "Email",
     "info.email.val": "shaimulakkas@gmail.com",
     "info.since": "Since",
     "info.since.val": "Oct 2024 — Present",
-    "info.since.sub": "IT Trainer",
+    "info.since.sub": "IT Trainer & Academic Coordinator",
 
     // Skills
     "skills.label": "Skills",
@@ -80,16 +80,19 @@ const translations = {
 
     // Experience
     "exp.label": "Experience",
-    "exp.trainer.title": "IT Trainer",
+    "exp.trainer.title": "IT Trainer & Academic Coordinator",
     "exp.trainer.org": "Gausul Azam Maizbhandari Polytechnic Institute",
     "exp.trainer.desc": "Delivered engaging lectures and practical sessions on IT support fundamentals, data communication, and Networking-related subjects (e.g., TCP/IP, OSI model). Provided hands-on training in troubleshooting common IT issues, configuring network devices, and implementing data communication solutions.",
-    "exp.lab.title": "Computer Lab Assistant → IT Trainer",
+    "exp.lab.title": "Computer Lab Assistant",
     "exp.lab.org": "Gausul Azam Maizbhandari Polytechnic Institute",
     "exp.lab.desc": "Maintained computer lab hardware, software installations, and network infrastructure connectivity. Supported senior instructors during practical lab classes and assisted students with technical troubleshooting.",
+    "exp.intern.title": "IT Intern",
+    "exp.intern.org": "Brain Machine AI — Software Technology",
+    "exp.intern.desc": "Performed data cleaning, exploratory data analysis, and visualization to extract actionable insights from raw datasets. Supported daily IT and technical workflow tasks, ensuring smooth operation of software environments and development tools, and troubleshot data pipelines, model performance, and script execution.",
 
     // Education
     "edu.label": "Education",
-    "edu.diploma.degree": "Diploma in Engineering — Computer Technology",
+    "edu.diploma.degree": "Diploma in Computer Technology",
     "edu.diploma.inst": "Banshkhali Polytechnic Institute (Board: Chattogram)",
     "edu.diploma.year": "Passing Year: 2023 · GPA 3.48 / 4.00",
     "edu.ssc.degree": "Secondary School Certificate (S.S.C.)",
@@ -98,6 +101,7 @@ const translations = {
 
     // Certificates
     "cert.label": "Certificates",
+    "cert.verify": "🔗 Verify",
     "cert.it.name": "IT Support Technician, Level-1",
     "cert.it.title": "National Skill Certificate-I",
     "cert.it.org": "BTEB (NTVQF)",
@@ -127,7 +131,7 @@ const translations = {
     "lang.japanese.level": "Learning",
 
     // Footer
-    "footer.line": "IT Trainer · GAMPI · Chattogram, Bangladesh",
+    "footer.line": "IT Trainer & Academic Coordinator · GAMPI · Chattogram, Bangladesh",
     "footer.linkedin": "LinkedIn",
     "footer.github": "GitHub",
     "footer.website": "Website",
@@ -188,11 +192,11 @@ const translations = {
 
     // Hero
     "hero.greeting": "হ্যালো, বিশ্ব",
-    "hero.title.line": "আইটি প্রশিক্ষক",
+    "hero.title.line": "আইটি প্রশিক্ষক ও একাডেমিক কো-অর্ডিনেটর",
     "hero.title.org": "GAMPI, চট্টগ্রাম",
     "hero.badge.available": "সুযোগের জন্য উপলব্ধ",
     "hero.badge.location": "চট্টগ্রাম, বাংলাদেশ",
-    "hero.badge.education": "প্রকৌশলে ডিপ্লোমা — ২০২৩",
+    "hero.badge.education": "কম্পিউটার প্রযুক্তিতে ডিপ্লোমা — ২০২৩",
     "hero.badge.email": "shaimulakkas@gmail.com",
     "hero.badge.linkedin": "লিংকডইন",
     "hero.badge.github": "গিটহাব",
@@ -206,13 +210,13 @@ const translations = {
 
     // About
     "about.label": "পরিচিতি",
-    "about.p1": "হ্যালো, আমি <em>শাইমুল</em> — চট্টগ্রাম, বাংলাদেশে অবস্থিত একজন আইটি পেশাদার, যিনি প্রযুক্তিগত সমস্যা সমাধান এবং অন্যদের শেখাতে আগ্রহী। আমি বর্তমানে গাউছুল আজম মাইজভান্ডারী পলিটেকনিক ইনস্টিটিউটে আইটি প্রশিক্ষক হিসেবে কর্মরত, যেখানে জটিল প্রযুক্তিগত ধারণাগুলোকে হাতে-কলমে ব্যবহারিক শেখার অভিজ্ঞতায় রূপান্তর করি।",
+    "about.p1": "হ্যালো, আমি <em>শাইমুল</em> — চট্টগ্রাম, বাংলাদেশে অবস্থিত একজন আইটি পেশাদার, যিনি প্রযুক্তিগত সমস্যা সমাধান এবং অন্যদের শেখাতে আগ্রহী। আমি বর্তমানে গাউছুল আজম মাইজভান্ডারী পলিটেকনিক ইনস্টিটিউটে আইটি প্রশিক্ষক ও একাডেমিক কো-অর্ডিনেটর হিসেবে কর্মরত, যেখানে জটিল প্রযুক্তিগত ধারণাগুলোকে হাতে-কলমে ব্যবহারিক শেখার অভিজ্ঞতায় রূপান্তর করি।",
     "about.p2": "পিসি নেটওয়ার্ক তৈরি ও সমস্যা সমাধান থেকে শুরু করে সিসিটিভি সিস্টেম কনফিগারেশন এবং ডেটা কমিউনিকেশনের মৌলিক বিষয় শেখানো পর্যন্ত — আমি <em>প্রযুক্তি ও শিক্ষার</em> সংযোগস্থলে কাজ করতে স্বাচ্ছন্দ্যবোধ করি। আইটি সাপোর্ট টেকনিশিয়ান (NTVQF লেভেল-১) সার্টিফাইড, কম্পিউটার অফিস অ্যাপ্লিকেশন ও গ্রাফিক ডিজাইনে অতিরিক্ত প্রশিক্ষণপ্রাপ্ত।",
-    "about.years": "২+",
+    "about.years": "৩+",
     "about.years.label": "বছরের অভিজ্ঞতা",
     "about.cert": "NTVQF",
     "about.cert.label": "লেভেল ১ সার্টিফাইড",
-    "about.students": "৫০+",
+    "about.students": "১২০+",
     "about.students.label": "শিক্ষার্থী প্রশিক্ষিত",
 
     // Personal Info
@@ -222,14 +226,14 @@ const translations = {
     "info.address": "ঠিকানা",
     "info.address.val": "গ্রাম: বাঁশখালা, ডাকঘর: ইলশা, থানা: বাঁশখালী, জেলা: চট্টগ্রাম",
     "info.role": "বর্তমান পদ",
-    "info.role.val": "আইটি প্রশিক্ষক @ GAMPI",
+    "info.role.val": "আইটি প্রশিক্ষক ও একাডেমিক কো-অর্ডিনেটর @ GAMPI",
     "info.phone": "ফোন",
     "info.phone.val": "+৮৮০ ১৮৫৯-৮১১০২১",
     "info.email": "ইমেইল",
     "info.email.val": "shaimulakkas@gmail.com",
     "info.since": "যখন থেকে",
     "info.since.val": "অক্টোবর ২০২৪ — বর্তমান",
-    "info.since.sub": "আইটি প্রশিক্ষক",
+    "info.since.sub": "আইটি প্রশিক্ষক ও একাডেমিক কো-অর্ডিনেটর",
 
     // Skills
     "skills.label": "দক্ষতা",
@@ -252,16 +256,19 @@ const translations = {
 
     // Experience
     "exp.label": "অভিজ্ঞতা",
-    "exp.trainer.title": "আইটি প্রশিক্ষক",
+    "exp.trainer.title": "আইটি প্রশিক্ষক ও একাডেমিক কো-অর্ডিনেটর",
     "exp.trainer.org": "গাউছুল আজম মাইজভান্ডারী পলিটেকনিক ইনস্টিটিউট",
     "exp.trainer.desc": "আইটি সাপোর্টের মৌলিক বিষয়, ডেটা কমিউনিকেশন ও নেটওয়ার্কিং (যেমন: TCP/IP, OSI মডেল) নিয়ে আকর্ষণীয় লেকচার ও ব্যবহারিক সেশন পরিচালনা করেছি। সাধারণ আইটি সমস্যা সমাধান, নেটওয়ার্ক ডিভাইস কনফিগারেশন এবং ডেটা কমিউনিকেশন সমাধান বাস্তবায়নে হাতে-কলমে প্রশিক্ষণ দিয়েছি।",
-    "exp.lab.title": "কম্পিউটার ল্যাব সহকারী → আইটি প্রশিক্ষক",
+    "exp.lab.title": "কম্পিউটার ল্যাব সহকারী",
     "exp.lab.org": "গাউছুল আজম মাইজভান্ডারী পলিটেকনিক ইনস্টিটিউট",
     "exp.lab.desc": "কম্পিউটার ল্যাবের হার্ডওয়্যার, সফটওয়্যার ইনস্টলেশন ও নেটওয়ার্ক অবকাঠামো রক্ষণাবেক্ষণ করেছি। ব্যবহারিক ল্যাব ক্লাসে সিনিয়র প্রশিক্ষকদের সহায়তা করেছি এবং শিক্ষার্থীদের কারিগরি সমস্যা সমাধানে সহযোগিতা করেছি।",
+    "exp.intern.title": "আইটি ইন্টার্ন",
+    "exp.intern.org": "ব্রেইন মেশিন এআই — সফটওয়্যার প্রযুক্তি",
+    "exp.intern.desc": "কাঁচা ডেটাসেট থেকে কার্যকর তথ্য বের করতে ডেটা ক্লিনিং, এক্সপ্লোরেটরি ডেটা অ্যানালাইসিস এবং ভিজ্যুয়ালাইজেশন করেছি। দৈনন্দিন আইটি ও কারিগরি ওয়ার্কফ্লো কাজ সমর্থন করেছি, সফটওয়্যার পরিবেশ ও ডেভেলপমেন্ট টুলের নির্বিঘ্ন কার্যক্রম নিশ্চিত করেছি, এবং ডেটা পাইপলাইন, মডেল পারফরম্যান্স ও স্ক্রিপ্ট এক্সিকিউশনের সমস্যা সমাধান করেছি।",
 
     // Education
     "edu.label": "শিক্ষা",
-    "edu.diploma.degree": "প্রকৌশলে ডিপ্লোমা — কম্পিউটার প্রযুক্তি",
+    "edu.diploma.degree": "কম্পিউটার প্রযুক্তিতে ডিপ্লোমা",
     "edu.diploma.inst": "বাঁশখালী পলিটেকনিক ইনস্টিটিউট (বোর্ড: চট্টগ্রাম)",
     "edu.diploma.year": "পাসের বছর: ২০২৩ · GPA ৩.৪৮ / ৪.০০",
     "edu.ssc.degree": "মাধ্যমিক স্কুল সার্টিফিকেট (S.S.C.)",
@@ -270,6 +277,7 @@ const translations = {
 
     // Certificates
     "cert.label": "সার্টিফিকেট",
+    "cert.verify": "🔗 যাচাই করুন",
     "cert.it.name": "আইটি সাপোর্ট টেকনিশিয়ান, লেভেল-১",
     "cert.it.title": "জাতীয় দক্ষতা সার্টিফিকেট-I",
     "cert.it.org": "BTEB (NTVQF)",
@@ -292,7 +300,7 @@ const translations = {
     "cert.opswat.title": "সিআইপি প্রোগ্রাম — ০.৫০ সিপিই",
     "cert.opswat.org": "OPSWAT Academy",
     "cert.opswat.result": "সম্পন্ন",
-    "cert.opswat.year": "২০২৫",
+    "cert.opswat.year": "২০২৬",
 
     // Tier 2: Professional Development
     "cert.aianalytics.name": "এআই-চালিত বিশ্লেষণ",
@@ -318,12 +326,6 @@ const translations = {
     "cert.personalbranding.org": "গ্রামীণফোন",
     "cert.personalbranding.result": "সম্পন্ন",
     "cert.personalbranding.year": "২০২৬",
-
-    "cert.digitalliteracy.name": "যুবকদের জন্য ডিজিটাল লিটারেসি",
-    "cert.digitalliteracy.title": "ডিজিটাল লিটারেসি কোর্স",
-    "cert.digitalliteracy.org": "সার্টিফাইড",
-    "cert.digitalliteracy.result": "সম্পন্ন",
-    "cert.digitalliteracy.year": "২০২২",
 
     "cert.pythonbasics.name": "পাইথনের মূলভিত্তি",
     "cert.pythonbasics.title": "পাইথন প্রোগ্রামিং কোর্স",
@@ -390,7 +392,7 @@ const translations = {
     "lang.japanese.level": "শেখার পর্যায়",
 
     // Footer
-    "footer.line": "আইটি প্রশিক্ষক · GAMPI · চট্টগ্রাম, বাংলাদেশ",
+    "footer.line": "আইটি প্রশিক্ষক ও একাডেমিক কো-অর্ডিনেটর · GAMPI · চট্টগ্রাম, বাংলাদেশ",
     "footer.linkedin": "লিংকডইন",
     "footer.github": "গিটহাব",
     "footer.website": "ওয়েবসাইট",
